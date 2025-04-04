@@ -63,7 +63,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Sparshtaparia/Apple_clone/iphone-main.git
+git clone https://github.com/Sparshtaparia/Apple_clone
+cd iphone-main
 ```
 
 **Installation**
